@@ -1,0 +1,9 @@
+body { 
+    background: #00ff00 url("../images/background.jpg") no-repeat fixed center; 
+}
+
+li {
+	font-weight: bold;
+	font-size: 16px;
+
+}
